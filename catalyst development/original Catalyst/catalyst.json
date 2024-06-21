@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "extensions_data_store_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

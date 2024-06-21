@@ -1,0 +1,9 @@
+{
+	"name": "twiliocontactcenter",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "zohocatalyst@nexivo.co",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "2663000000104023",
+      "name": "ContactCenter",
+      "domain": {
+        "id": "50014334220",
+        "name": "contactcenter-60018022909.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60018022909",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
